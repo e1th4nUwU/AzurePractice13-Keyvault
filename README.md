@@ -1,4 +1,4 @@
-# Configuring an Azure Keyvault the Azure Portal
+# Configuring an Azure Keyvault using the Azure Portal
 ![KeyvaultIcon](img/keyvault-icon.png)
 
 
