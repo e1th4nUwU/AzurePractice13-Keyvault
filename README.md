@@ -14,7 +14,7 @@
 
 ---------------------------------------------------------
 
-## Create Storage Account
+## Instructions
 #### 1. Login to the [Azure Portal](https://portal.azure.com/).
 #### 2. Once you're on the portal's home page, you will see something like this:
 ![PortalImage](img/portal-main.png)
